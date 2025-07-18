@@ -1,4 +1,4 @@
-<h1 align='center'> Hola, my name is Andrej 👋 </h1>
+<h1 align='center'> Hello, my name is Andrej 👋 </h1>
 <p align='center'>If you have an idea, question or just need an opinion/helping hand, feel free to drop me a message! </a></p>
 <!-- <h1 align='center'><i>Stay blessed! 🙏 </i></h1> -->
 

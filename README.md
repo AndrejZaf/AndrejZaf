@@ -1,5 +1,14 @@
-<h1 align='center'> Hello, my name is Andrej 👋 </h1>
+<h3 align='center'>Hello, my name is Andrej 👋</h3>
+<div align='center'>
+<a href="https://andrejzafirovski.com">Website</a> • <a href='https://www.linkedin.com/in/andrej-zafirovski/'>LinkedIn</a>
+</div>
+
+---
+Full Stack Engineer with 5+ years of experience building scalable microservices and modern web applications. Experienced in Java, TypeScript, Spring Boot, and React. Interested in automation, clean architecture, and solving complex system problems.
+
+---
 <p align='center'>If you have an idea, question or just need an opinion/helping hand, feel free to drop me a message! </a></p>
+
 <!-- <h1 align='center'><i>Stay blessed! 🙏 </i></h1> -->
 
 <!--

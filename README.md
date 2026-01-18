@@ -5,7 +5,7 @@
 
 ---
 
-Full Stack Engineer with 5+ years of experience building scalable microservices and modern web applications. Experienced in Java, TypeScript, Spring Boot, and React. Interested in automation, clean architecture, and solving complex system problems.
+<p align='center'>Full Stack Engineer with 5+ years of experience building scalable microservices and modern web applications. Experienced in Java, TypeScript, Spring Boot, and React. Interested in automation, clean architecture, and solving complex system problems.</p>
 
 ---
 <p align='center'>If you have an idea, question or just need an helping hand, feel free to drop me a message!</a></p>

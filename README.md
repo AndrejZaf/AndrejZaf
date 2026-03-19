@@ -1,4 +1,4 @@
-<h3 align='center'>Hello, my name is Andrej 👋</h3>
+<h3 align='center'>Hello, my name is Andrej! 👋</h3>
 <div align='center'>
 <a href="https://andrejzafirovski.com">Website</a> • <a href='https://www.linkedin.com/in/andrej-zafirovski/'>LinkedIn</a>
 </div>
